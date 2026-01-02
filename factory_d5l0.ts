@@ -1,0 +1,1 @@
+const service_d5l0 = <T>(args: T): T => { return args; };
